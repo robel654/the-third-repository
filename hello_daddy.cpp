@@ -4,6 +4,7 @@ using namespce std;
 int main()
 {
     cout<<" hello daddy";
+    cin>>hello;
     return 0;
    
     
